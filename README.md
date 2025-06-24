@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,mongodb,postgres,html,css,tailwind,github,vscode)](https://skillicons.dev)
 
 <!--
 **silv-error/silv-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

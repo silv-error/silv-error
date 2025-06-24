@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am currently student pursuing a Bachelor of Science in Information Technology (BSIT) with a passion for backend development. With hands-on experience in full-stack development, I have served as the backend developer for my school club, where I collaborated on projects that involved building systems and cloning websites with useful features for our community. I thrive on solving complex problems and am always eager to learn new technologies to enhance my skills.
+I am currently a student pursuing a Bachelor of Science in Information Technology (BSIT) with a passion for backend development. With hands-on experience in full-stack development, I have served as the backend developer for my school club, where I collaborated on projects that involved building systems and cloning websites with useful features for our community. I thrive on solving complex problems and am always eager to learn new technologies to enhance my skills.
 
 ## 📔 Languages & tools I have placed my hands on
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,vite,react,mongodb,postgres,html,css,js,tailwind,prisma,postman,npm,github,git,docker,vscode&perline=9)](https://skillicons.dev)

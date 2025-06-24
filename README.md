@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## 📔 Languages & tools I have placed my hands on
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,mongodb,postgres,html,css,tailwind,prisma,postman,npm,github,vscode)](https://skillicons.dev)
 
 <!--

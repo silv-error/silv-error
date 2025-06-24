@@ -4,8 +4,11 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,vite,react,mongodb,postgres,html,css,js,tailwind,prisma,postman,npm,github,git,docker,vscode&perline=9)](https://skillicons.dev)
 
 ## 💻 Tech Stack
+![image]({https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white})
+![image]({https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white})
+![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <!--
 **silv-error/silv-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

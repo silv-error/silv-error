@@ -1,4 +1,3 @@
-# silv-error
 ## Hi there 👋
 I am currently student pursuing a Bachelor of Science in Information Technology (BSIT) with a passion for backend development. With hands-on experience in full-stack development, I have served as the backend developer for my school club, where I collaborated on projects that involved building systems and cloning websites with useful features for our community. I thrive on solving complex problems and am always eager to learn new technologies to enhance my skills.
 
@@ -6,7 +5,6 @@ I am currently student pursuing a Bachelor of Science in Information Technology 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,vite,react,mongodb,postgres,html,css,js,tailwind,prisma,postman,npm,github,git,docker,vscode&perline=9)](https://skillicons.dev)
 
 ## 💻 Tech Stack
-
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" /> 
 
 <!--

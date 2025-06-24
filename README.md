@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 📔 Languages & tools I have placed my hands on
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,vite,react,mongodb,postgres,html,css,js,tailwind,prisma,postman,npm,github,git,docker,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,vite,react,mongodb,postgres,html,css,js,tailwind,prisma,postman,npm,github,git,docker,vscode&perline=9)](https://skillicons.dev)
 
 <!--
 **silv-error/silv-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

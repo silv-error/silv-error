@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 ## Hi there 👋
 I am currently a student pursuing a Bachelor of Science in Information Technology (BSIT) with a passion for backend development. With hands-on experience in full-stack development, I have served for my school club where I collaborated on projects that involved building systems with useful features for our community. I thrive on solving problems and am always eager to learn new technologies to enhance my skills.
 

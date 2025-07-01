@@ -8,8 +8,8 @@ I am currently a student pursuing a Bachelor of Science in Information Technolog
 
 ## 📊 GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silv-error&show_icons=true&theme=transparent)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=silv-error&layout=compact)&langs_count=8&card_width=320" />
+<a href="https://github.com/silv-error/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silv-error&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 💻 Tech Stack

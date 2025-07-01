@@ -8,7 +8,7 @@ I am currently a student pursuing a Bachelor of Science in Information Technolog
 
 ## 📊 GitHub Status
 <a href="https://github.com/silv-error/convoychat">
-  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silv-error&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silv-error&layout=compact&langs_count=8&theme=transparent" />
 </a>
 <a href="https://github.com/silv-error/convoychat">
   <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=silv-error&show_icons=true&theme=transparent" />

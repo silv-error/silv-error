@@ -7,7 +7,6 @@ I am currently a student pursuing a Bachelor of Science in Information Technolog
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,vite,react,mongodb,postgres,html,css,js,tailwind,prisma,postman,npm,github,git,docker,vscode&perline=9)](https://skillicons.dev)
 
 ## 📊 GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silv-error&show_icons=true&theme=transparent)
 <a href="https://github.com/silv-error/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silv-error&layout=compact&langs_count=8&card_width=320" />
 </a>
